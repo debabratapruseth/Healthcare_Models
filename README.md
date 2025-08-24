@@ -1,5 +1,7 @@
 # HAM10000 Skin Cancer Classification  
-A **beginner-friendly deep learning project** to classify skin lesion images into **7 categories** using **TensorFlow 2.x**, **EfficientNetB0**, and the **HAM10000 dataset**.
+A **beginner-friendly deep learning project** to classify skin lesion images into **7 categories** using **TensorFlow **, **EfficientNetB0**, and the **HAM10000 dataset**.
+
+![Skin Cancer Detection Model](https://github.com/debabratapruseth/Healthcare_Models/blob/main/Cancer%20Model.png)
 
 ---
 
